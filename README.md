@@ -7,3 +7,5 @@
 	
 难点2:
 	打包成apk后用www读取到文件后解压到安卓的可读可写的路径下
+	
+打包成功的包在UnityPackageManager路径下
